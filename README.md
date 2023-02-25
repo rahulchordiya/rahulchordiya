@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 I'm Rahul Chordiya, DevOps Engineer at InfoDesk.com. I am a DevOps Community Evangelist, AWS cloud☁ Specialist.
-<a href="https://www.credly.com/earner/earned/badge/01426369-6433-4c0e-83a1-d08499e3e95c">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01426369-6433-4c0e-83a1-d08499e3e95c"><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"/></div></a>
+<p><a href="https://www.credly.com/earner/earned/badge/01426369-6433-4c0e-83a1-d08499e3e95c">
+<img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"/></a></p>
 
 
 
